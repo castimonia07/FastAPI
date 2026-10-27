@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1f9409af-21a1-4940-b41a-f7d322a1b3e7",
+    "sku": "241-242-432",
+    "name": "HP Laptop",
+    "description": "A high-quality laptop with 16GB RAM and 512GB SSD.",
+    "tags": [
+      "electronics",
+      "laptop",
+      "gaming"
+    ],
+    "rating": 4.5,
+    "image_urls": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ],
+    "discount_percent": 10.0,
+    "stock": 50,
+    "is_active": true,
+    "price": 999.99,
+    "dimension_cm": {
+      "length": 35.8,
+      "width": 24.2,
+      "height": 1.8
+    },
+    "seller": {
+      "id": "5ff1519e-b952-4315-9151-c94b938123c9",
+      "name": "HP Official",
+      "email": "support@mistore.in",
+      "website": "https://www.hp.com/"
+    },
+    "created_at": "2026-09-23T18:50:00Z",
+    "final_price": 899.99,
+    "volume_cm3": 1559.45
+  }
+]
