@@ -401,6 +401,3 @@ DATA_FILE = Path(__file__).parent.parent / "data" / "dummy.json"
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - feel free to use and adapt it for learning or production.
